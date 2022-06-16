@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rvbv89
-- 👀 I’m interested in ... React.js, Node.js, Ethereum, Full Stack Development
-- 🌱 I’m currently learning ... React, and continually learning vanilla JavaScript.
+- 👀 I’m interested in ... React.js, Node.js, Full Stack Development, Ethereum
+- 🌱 I’m currently learning ... React, and continually learning vanilla JavaScript. Taking a course on Kubernetes.
 - 💞️ I’m looking to collaborate on ... Almost anything
 - 📫 How to reach me ... rvbv89 on GitHub and Instagram, Tripp Garzotto on Facebook, Email at garzotto5389@gmail.com
 
